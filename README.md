@@ -7,9 +7,8 @@ Creating a Todolist App Using ReactJS.
 
 ## 🔗 Important Links
 
-> ## Checkout the Website [Web Application](https://kartiksarwan2017.github.io/React-TodoList/)
+> ## Checkout the Website [Web Application]
 >
-> ## Checkout the Application Demo Video [YouTube](https://youtu.be/miR_0gr11T0)
 
 <br />
 
